@@ -5,6 +5,6 @@ def get_helloworld():
 
 def main():
 	print(get_helloworld())
-
+#main
 if __name__=='__main__':
 	main()
